@@ -3,7 +3,7 @@
 }
 
 body {
-    background-image: url(../images/bedge_grunge_@2X.png);
+    background-image: url(../images/bedge_grunge.png);
     font-family: 'Luckiest Guy', cursive;
 }
 
@@ -14,7 +14,7 @@ body {
 }
 
 .container-fluid {
-    background-image: url(../images/leather_1_@2x.png);
+    background-image: url(../images/leather.png);
     width: 100%;
     margin-bottom: 25px;
     position: fixed;
